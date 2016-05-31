@@ -1,0 +1,237 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <meta name="description" content="PROVA, a Tool for Reproducible High-Performance Computing Benchmarking Experiments">
+    <meta name="author" content="Danilo Guerrera">
+    <link rel="icon" href="images/favicon.ico">
+
+    <title>PROVA! a tool for HPC Benchmarking Experiments</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/carousel.css" rel="stylesheet">
+  </head>
+<!-- NAVBAR
+================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.html">PROVA!</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li class="active"><a href="index.html">Home</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="manual.html">Manual</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+    <!-- Messaging and featurettes
+    ================================================== -->
+    <!-- Wrap the rest of the page in another container to center all the content. -->
+
+    <div class="container">
+
+      <!-- Three columns of text below the carousel -->
+      <div class="jumbotron">
+
+         <h2 id="icon-prova-size80" class="h1" data-heading-depth="1" style="display:block;text-align:center">
+           <!-- When we have a logo we use it here <img src="images/prova.png" title="icon-prova" alt="icon-prova" data-path="images/prova.png" data-linkid="icon-prova" class="icon"> -->
+            <br>
+            PROVA!<br>
+            <span style="font-size:80%">try, prove, convince</span>
+         </h2>
+         <p class="p noindent"><br></p>
+         <div class="row">
+            <div class="col col-md-6">
+               <p class="p noindent">PROVA! is a tool to conduct reproducible research in computational sciences. It focuses on simplicity and usability,
+                 while providing the functionalities needed to write HPC codes and run HPC experiments, from your browser. The tool takes care of the environment and
+                 manages the software stack. This way you have reproducible experiments, on all the HPC systems you have access to!
+               </p>
+               <p class="p indent">PROVA! is much more than a simple workflow tool: you can make your research reproducible
+                    and get beautiful svg graphs of the performance output for your chosen metric.
+               </p>
+            <!--   <p class="p indent"><a href="editor.html" data-linkid="edit-continue" class="btn btn-primary btn-lg" style="role:button">Start editing…</a></p> -->
+            </div>
+            <div class="col col-md-6">
+               <p class="p noindent"><img src="images/measure.png" title="PROVA screenshot" alt="prova-focus" data-path="images/measure.png" data-linkid="prova-focus" style="width:100%"></p>
+            </div>
+         </div>
+      </div>
+
+      <div class="jumbotron">
+        <div class="row">
+          <div class="col col-md-6">
+            <p class="p noindent"><img src="images/prova.png" title="Experiment screenshot" alt="sshot-presentation" data-path="images/prova.png" data-linkid="experiment" style="width:100%"></p>
+          </div>
+          <div class="col col-md-6">
+             <h2 id="sec-prova-for-research" class="h1" data-heading-depth="1" style="display:block">PROVA! for your research</h2>
+             <p class="p noindent">Using PROVA! you can focus on the research, accessing your workspace and several parallel machines from your browser.
+             </p>
+             <p class="p indent">
+               <a href="manual.html" data-linkid="manual-html" class="btn btn-primary btn-lg" style="role:button">Read the Manual</a>
+               <a href="https://repro-hpc.dmi.unibas.ch/" data-linkid="repro-hpc" class="btn btn-primary btn-lg" style="role:button">Try it!</a>
+             </p>
+          </div>
+       </div>
+     </div>
+
+     <div class="jumbotron">
+       <h2 style="display:block;text-align:center">Space of Experiments</h2>
+       <div class="row">
+         <div class="col col-md-6">
+           <p class="p noindent"><img src="images/space.svg" title="Space of Experiments" alt="sshot-presentation" data-path="images/space.svg" data-linkid="spaceofexp" style="width:100%"></p>
+           <p class="p noindent">
+             Computational problem solving in general can be described as follows: A  computational <b>problem</b> is solved by an algorithmic
+             <b>method</b> on a  compute <b>system</b>.
+             <br>
+             We call the triple (Problem / Method / System) a <i>micro-experiment</i>, which can be considered
+             as being one point in the space of experiments.
+           </p>
+           <br>
+         </div>
+         <div class="col col-md-6">
+          <!-- <h2>Experiment definition</h2>
+          <p> -->
+            <dl>
+             <h3>
+               <dt>Problem</dt>
+             </h3>
+               <h4>
+                 <dd>- specification of the problem including characteristic parameters</dd>
+               </h4>
+             <h3>
+               <dt>Method</dt>
+             </h3>
+               <h4>
+                 <dd>- description of the algorithmic approach used to tackle the problem</dd>
+               </h4>
+             <h3>
+               <dt>System</dt>
+             </h3>
+               <h4>
+                 <dd>- representation of the compute environment (both hardware and software), on which an experiment is run</dd>
+               </h4>
+            </dl>
+          </p>
+          </div>
+        </div>
+        </div>
+
+
+      <div class="jumbotron">
+        <!-- <h2 style="display:block;text-align:center">Repeatability levels</h2> -->
+        <h2 style="display:block;text-align:center">Taxonomy of Reproducibility</h2>
+        <div class="row">
+          <br>
+          <!-- <div class="col col-md-6"> -->
+              <p class="p noindent">
+                Starting from the definition of the triple (Problem / Method / System), we can identify 3 different levels of reproducibility.
+              </p>
+              <dl>
+                <h3>
+                  <dt>Repetition</dt>
+                </h3>
+                  <p class="p noindent">
+                      Re-run the same experiment or change parameters’ values.<br>
+                      It is the entry level of our taxonomy: each scientific research should at least reach such level in order to have credibility and
+                      to be considered Science. It is basilar being able to run a code more than once and to get, if none of the prerequisites changes,
+                      quantitatively and qualitatively similar results.
+                  </p>
+                  <h3>
+                    <dt>Replication</dt>
+                  </h3>
+                  <p class="p noindent">
+                      Re-run an experiment changing the system.<br>
+                      It is related to the system, intended as software and hardware, hosting an experiment.
+                      An experiment should not be bound to a specific compute environment: reaching this level in our taxonomy ensures portability.
+                      Due to the differences in hardware and software it is not possible to directly compare performance results of a replication
+                      experiment: they will most likely be quantitatively different due to different hardware.
+                  </p>
+                  <h3>
+                    <dt>Re-experimentation</dt>
+                  </h3>
+                    <p class="p noindent">
+                      Re-run an experiment changing the method used to solve a problem.<br>
+                      If changing the methods drives to the same outputs, the scientific approach is proven. That means reaching this level ensures the
+                      correctness of the approach.
+                    </p>
+                </dl>
+              </p>
+        </div>
+      </div>
+
+    <div class="jumbotron">
+      <div class="center align-center" style="text-align:center">
+        <p class="p noindent">
+          <img src="images/nodejs.png" title="Nodejs" alt="nodejs logo" data-path="images/nodejs.png" data-linkid="nodejs" class="icon">
+          <img src="images/socketIO.png" title="SocketIO" alt="SocketIO logo" data-path="images/socketIO.png" data-linkid="socketIO" class="icon">
+          <img src="images/ace.png" title="Ace" alt="Ace logo" data-path="images/ace.png" data-linkid="ace" class="icon">
+          <img src="images/easybuild.png" title="EasyBuild" alt="EasyBuildO logo" data-path="images/easybuild.png" data-linkid="EasyBuild" class="icon">
+          <img src="images/likwid.png" title="Likwid" alt="Likwid logo" data-path="images/likwid.png" data-linkid="Likwid" class="icon">
+        </p>
+      </div>
+      <p class="p noindent">PROVA! integrates with&nbsp;<a href="https://nodejs.org" data-linkid="nodejs" target="_blank">Node.js</a>,&nbsp;<a href="http://socket.io/" data-linkid="socketio" target="_blank">Socketio</a>,&nbsp;<a href="https://ace.c9.io" data-linkid="ace" target="_blank">Ace</a>,&nbsp;<a href="https://hpcugent.github.io/easybuild/" data-linkid="easybuild" target="_blank">EasyBuild</a>,&nbsp;and&nbsp;<a href="https://github.com/RRZE-HPC/likwid/wiki" data-linkid="likwid" target="_blank">Likwid</a>.
+        This way, your workspace is always available anywhere from any device. You can access several parallel machines and run experiments on them having always the same environment, thus keeping control over the reproducibility of your work.
+      </p>
+    </div>
+
+      <!-- /END THE FEATURETTES -->
+
+
+      <!-- FOOTER -->
+      <footer>
+        <p class="pull-right"><a href="#">Back to top</a></p>
+        <p>&copy; 2016 PROVA. &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a></p>
+      </footer>
+
+    </div><!-- /.container -->
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="js/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

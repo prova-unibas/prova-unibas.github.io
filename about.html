@@ -1,0 +1,175 @@
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <link rel="icon" href="images/favicon.ico">
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+    <!-- Custom styles for this template -->
+    <link href="css/carousel.css" rel="stylesheet">
+  </head>
+
+  <!-- NAVBAR
+  ================================================== -->
+  <body>
+    <div class="navbar-wrapper">
+      <div class="container">
+
+        <nav class="navbar navbar-inverse navbar-static-top">
+          <div class="container">
+            <div class="navbar-header">
+              <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+              </button>
+              <a class="navbar-brand" href="index.html">PROVA!</a>
+            </div>
+            <div id="navbar" class="navbar-collapse collapse">
+              <ul class="nav navbar-nav">
+                <li><a href="index.html">Home</a></li>
+                <li class="active"><a href="about.html">About</a></li>
+                <li><a href="manual.html">Manual</a></li>
+                <li><a href="contact.html">Contact</a></li>
+              </ul>
+            </div>
+          </div>
+        </nav>
+
+      </div>
+    </div>
+
+    <hr>
+
+    <div class="container">
+      <div class="jumbotron">
+      	<h2 id="sec-faq" class="h1" data-heading-depth="1" style="display:block">FAQ</h2>
+      	<ol class="ol loose">
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">How is PROVA! different?</strong><br>
+      				PROVA! implements many features to enable writing and executing an
+      				experiment on an HPC machine directly from your browser. Read the&nbsp;<a href="manual.html" data-linkid="reference manual">reference manual</a> to learn more.
+      			</p>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Does the PROVA! server store any documents?</strong><br>
+      				No, the PROVA! server just processes your requests. All data is sent over an
+      				encrypted connection and immediately removed after processing.
+      			</p>
+      			<p> Documents are only stored locally in your browser, and on your
+      				personal storage on the host machine. Nothing is retained on the PROVA! server.
+      			</p>
+      		</li>
+      		<!-- <li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Do I need to save my files?</strong><br>
+      				No, PROVA! continuously saves the current document in browser local
+      				storage. You can at any time close the browser or shutdown the
+      				computer and your changes are saved. PROVA! also automatically
+      				synchronizes your changes to the machine you are accessing every 30 seconds or
+      				so.
+      			</p>
+      		</li> -->
+      		<!-- <li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Can I work concurrently with other users on a project?</strong><br>
+      				Yes, PROVA! merges concurrent changes automatically. However,
+      				currently only Github supports full sharing of files in
+      				the cloud.
+      			</p>
+      		</li> -->
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Is there version control?</strong><br>
+      				When documents are used from Github, full version control is provided
+      				and “saving” a document becomes a commit.
+      			</p>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Can I write my code in PROVA! instead of using vi, or any other shell editor?</strong><br>
+      				Yes! and PROVA! makes it especially easy to work with others through
+      				Github. It is fairly safe to try out PROVA! to work to your next experiment since:
+      			</p>
+      			<ul class="ul list-star compact">
+      				<li class="li ul-li list-star-li compact-li">Using it you can always fall back to old style development/experiment run in a pinch.</li>
+      				<li class="li ul-li list-star-li compact-li">PROVA! synchronizes and backs up your document to the cloud
+      					making the document available anywhere on any device.
+      				</li>
+      			</ul>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">What browsers are supported?</strong><br>
+      				PROVA! has been tested with Chrome version 31+, IE 10+, and
+      				Firefox version 27+.
+      			</p>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Can I run PROVA! locally?</strong><br>
+      				Yes! PROVA! is free software and runs as a command line program on
+      				any system that can run&nbsp;<a href="http://nodejs.org" data-linkid="nodejs">nodejs</a> (Windows, MacOSX, Linux, etc).
+      				Follow the installation instructions in the&nbsp;<a href="manual.html">reference manual</a>.
+      			</p>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Does PROVA! work if I am not connected?</strong> Unfortunately not, PROVA! is a
+      				“web-app” and works with an internet connection.
+      			</p>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">What software does PROVA! use?</strong>&nbsp;  </p>
+      			<ul class="ul list-dash compact">
+      				<li class="li ul-li list-dash-li compact-li"><a href="http://nodejs.org" data-linkid="nodejs">NodeJS</a></li>
+      				<li class="li ul-li list-dash-li compact-li"><a href="http://expressjs.com" data-linkid="express">Express</a></li>
+      				<li class="li ul-li list-dash-li compact-li">PROVA! is written in the&nbsp;<a href="http://linuxcommand.org/writing_shell_scripts.php" data-linkid="shellcript">Shellscript</a> and&nbsp;<a href="https://www.python.org/" data-linkid="python">Python</a> language.</li>
+      				<li class="li ul-li list-dash-li compact-li">PROVA! is free software and available on&nbsp;<a href="https://bitbucket.org/hpwc/nodejs_server" data-linkid="bitbucket">bitbucket</a> under the
+      					GPLv3 license    <br>
+      					<br>
+      				</li>
+      			</ul>
+      		</li>
+      		<li class="li ol-li loose-li">
+      			<p><strong class="strong-star2">Any useful links?</strong><br></p>
+      			<ul class="ul list-dash compact">
+      				<li class="li ul-li list-dash-li compact-li"><a href="manual.html" data-linkid="reference manual">The PROVA! reference manual</a></li>
+      				<li class="li ul-li list-dash-li compact-li"><a href="https://github.com/dominicbosch/hpwc-workflow/issues">Report an issue</a> </li>
+      			</ul>
+      		</li>
+      	</ol>
+      	<p class="p noindent">Enjoy <br>
+      		  – Danilo Guerrera
+      	</p>
+      </div>
+
+      <!-- FOOTER -->
+  		<footer>
+  			<p class="pull-right"><a href="#">Back to top</a></p>
+  			<p>&copy; 2016 PROVA. &middot; <a href="privacy.html">Privacy</a> &middot; <a href="terms.html">Terms</a></p>
+  		</footer>
+
+    </div><!-- /.container -->
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="js/jquery.min.js"><\/script>')</script>
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="js/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="js/ie10-viewport-bug-workaround.js"></script>
+  </body>
+</html>

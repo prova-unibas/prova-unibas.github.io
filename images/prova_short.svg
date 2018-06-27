@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg973"
+   version="1.1"
+   viewBox="0 0 95.977608 27.005482"
+   height="27.005482mm"
+   width="95.977608mm"
+   sodipodi:docname="drawing-2.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="667"
+     inkscape:window-height="480"
+     id="namedview31"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.2102413"
+     inkscape:cx="172.51114"
+     inkscape:cy="-327.70619"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg973" />
+  <defs
+     id="defs967">
+    <linearGradient
+       id="linearGradientSjiu8b5gspbn"
+       y2="204.21481"
+       x2="154.37178"
+       y1="204.21481"
+       x1="-155.19608"
+       gradientTransform="scale(3.1987636,0.31262079)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop184"
+         stop-color="#0e1e40"
+         offset="0%" />
+      <stop
+         id="stop186"
+         stop-color="#0e1e40"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientSjiu8b5gspcb"
+       y2="138.06416"
+       x2="90.551582"
+       y1="138.06416"
+       x1="-92.515442"
+       gradientTransform="scale(2.511194,0.39821695)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop219"
+         stop-color="#16d9e0"
+         offset="0%" />
+      <stop
+         id="stop221"
+         stop-color="#16d9e0"
+         offset="100%" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradientSjiu8b5gspbh"
+       y2="73.518585"
+       x2="103.50857"
+       y1="73.518585"
+       x1="32.608055"
+       gradientTransform="scale(1.0578061,0.9453528)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         id="stop179"
+         stop-color="#000000"
+         offset="0%" />
+      <stop
+         id="stop181"
+         stop-color="#000000"
+         offset="100%" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata970">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(-59.356427,-34.788924)">
+    <g
+       id="g844"
+       transform="matrix(0.24270229,0,0,0.24270229,94.505694,34.788924)"
+       style="opacity:1;text-rendering:geometricPrecision"
+       class="svg-clip svg-visible">
+      <rect
+         id="rect830"
+         style="fill:none"
+         class="svg-hitbox"
+         height="77"
+         width="84"
+         y="0"
+         x="0" />
+      <svg
+         id="svg842"
+         version="1.1"
+         viewBox="29.493 30.988 84.999 77.026"
+         height="77.026001"
+         width="84.999001">
+        <desc
+           id="desc832">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs834" />
+        <g
+           id="g836" />
+        <g
+           id="g840">
+          <path
+             style="fill:url(#linearGradientSjiu8b5gspbh)"
+             id="path838"
+             d="m 68.004,103.014 c 15.487,0 28.551,-10.563 32.375,-24.859 h 9.113 L 95.548,54.001 81.604,78.152 H 89.61 C 86.17,86.715 77.784,92.78 68.005,92.78 c -12.837,0 -23.28,-10.443 -23.28,-23.28 0,-12.836 10.443,-23.28 23.28,-23.28 6.604,0 12.566,2.768 16.809,7.196 l 5.258,-9.108 c -5.898,-5.176 -13.619,-8.32 -22.065,-8.32 -18.48,0 -33.514,15.032 -33.514,33.513 -0.002,18.481 15.03,33.513 33.511,33.513 z"
+             inkscape:connector-curvature="0" />
+        </g>
+      </svg>
+    </g>
+    <g
+       id="g852"
+       transform="matrix(0.19195521,0,0,0.19195521,107.34523,33.549834)"
+       style="opacity:1;text-rendering:geometricPrecision"
+       class="svg-text svg-visible">
+      <path
+         id="path846"
+         style="fill:none"
+         d="m -250,101.92188 c 230,-1 270,-1 500,0"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text848"
+         dy="91.429688"
+         style="font-weight:bold;font-size:100px;font-family:Montserrat;text-anchor:middle;fill:url(#linearGradientSjiu8b5gspcb)"
+         xml:space="preserve"
+         y="0"
+         x="0">PR    VA!</text>
+      <rect
+         id="rect850"
+         height="0"
+         width="0"
+         y="0"
+         x="0" />
+    </g>
+    <g
+       id="g860"
+       transform="matrix(0.07249583,0,0,0.07249583,107.08065,53.658164)"
+       style="opacity:1;text-rendering:geometricPrecision"
+       class="svg-text svg-visible">
+      <path
+         id="path854"
+         style="fill:none"
+         d="m -513.5625,101.92188 c 493.5625,-1 533.5625,-1 1027.125,0"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text856"
+         dy="91.429688"
+         style="font-size:100px;font-family:Montserrat;text-anchor:middle;fill:url(#linearGradientSjiu8b5gspbn)"
+         xml:space="preserve"
+         y="0"
+         x="0">try, prove, convince</text>
+      <rect
+         id="rect858"
+         height="0"
+         width="0"
+         y="0"
+         x="0" />
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="113.53402mm"
+   height="35.40694mm"
+   viewBox="0 0 113.53402 35.40694"
+   version="1.1"
+   id="svg1033"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="drawing-1 copy.svg">
+  <defs
+     id="defs1027">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.3218822,0.75649707)"
+       x1="5.5837049"
+       y1="61.618019"
+       x2="33.769272"
+       y2="61.618019"
+       id="linearGradientSjiu8b5gsp6d">
+      <stop
+         offset="0%"
+         stop-color="#16d9e0"
+         id="stop204" />
+      <stop
+         offset="100%"
+         stop-color="#16d9e0"
+         id="stop206" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0013056,0.99869614)"
+       x1="29.878508"
+       y1="3.6966071"
+       x2="35.120438"
+       y2="3.6966071"
+       id="linearGradientSjiu8b5gsp6a">
+      <stop
+         offset="0%"
+         stop-color="#419a1c"
+         id="stop199" />
+      <stop
+         offset="100%"
+         stop-color="#419a1c"
+         id="stop201" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0013056,0.99869614)"
+       x1="24.264837"
+       y1="9.9427509"
+       x2="29.506765"
+       y2="9.9427509"
+       id="linearGradientSjiu8b5gsp67">
+      <stop
+         offset="0%"
+         stop-color="#cf1717"
+         id="stop194" />
+      <stop
+         offset="100%"
+         stop-color="#cf1717"
+         id="stop196" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0013226,0.99867917)"
+       x1="17.596066"
+       y1="6.9229312"
+       x2="22.838083"
+       y2="6.9229312"
+       id="linearGradientSjiu8b5gsp64">
+      <stop
+         offset="0%"
+         stop-color="#4c96d7"
+         id="stop189" />
+      <stop
+         offset="100%"
+         stop-color="#4c96d7"
+         id="stop191" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.9943244,1.005708)"
+       x1="1.8498665"
+       y1="38.256134"
+       x2="50.473324"
+       y2="38.256134"
+       id="linearGradientSjiu8b5gsp61">
+      <stop
+         offset="0%"
+         stop-color="#000000"
+         id="stop184" />
+      <stop
+         offset="100%"
+         stop-color="#000000"
+         id="stop186" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(0.95100969,1.051514)"
+       x1="44.703014"
+       y1="36.589207"
+       x2="65.364212"
+       y2="36.589207"
+       id="linearGradientSjiu8b5gsp6j">
+      <stop
+         offset="0%"
+         stop-color="#000000"
+         id="stop209" />
+      <stop
+         offset="100%"
+         stop-color="#000000"
+         id="stop211" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(3.1987636,0.31262079)"
+       x1="-155.19608"
+       y1="204.21481"
+       x2="154.37178"
+       y2="204.21481"
+       id="linearGradientSjiu8b5gsp71">
+      <stop
+         offset="0%"
+         stop-color="#0e1e40"
+         id="stop214" />
+      <stop
+         offset="100%"
+         stop-color="#0e1e40"
+         id="stop216" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(2.511194,0.39821695)"
+       x1="-92.515442"
+       y1="138.06416"
+       x2="90.551582"
+       y2="138.06416"
+       id="linearGradientSjiu8b5gsp7y">
+      <stop
+         offset="0%"
+         stop-color="#16d9e0"
+         id="stop219" />
+      <stop
+         offset="100%"
+         stop-color="#16d9e0"
+         id="stop221" />
+    </linearGradient>
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.0578061,0.9453528)"
+       x1="32.608055"
+       y1="73.518585"
+       x2="103.50857"
+       y2="73.518585"
+       id="linearGradientSjiu8b5gso2h">
+      <stop
+         offset="0%"
+         stop-color="#000000"
+         id="stop179" />
+      <stop
+         offset="100%"
+         stop-color="#000000"
+         id="stop181" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.979899"
+     inkscape:cx="76.564061"
+     inkscape:cy="-39.225438"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1298"
+     inkscape:window-x="3440"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata1030">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-67.965136,-42.683434)">
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.24270229,0,0,0.24270229,120.6708,42.683434)"
+       id="g760">
+      <rect
+         x="0"
+         y="0"
+         width="84"
+         height="77"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect746" />
+      <svg
+         width="84.999001"
+         height="77.026001"
+         viewBox="29.493 30.988 84.999 77.026"
+         version="1.1"
+         id="svg758">
+        <desc
+           id="desc748">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs750" />
+        <g
+           id="g752" />
+        <g
+           id="g756">
+          <path
+             d="m 68.004,103.014 c 15.487,0 28.551,-10.563 32.375,-24.859 h 9.113 L 95.548,54.001 81.604,78.152 H 89.61 C 86.17,86.715 77.784,92.78 68.005,92.78 c -12.837,0 -23.28,-10.443 -23.28,-23.28 0,-12.836 10.443,-23.28 23.28,-23.28 6.604,0 12.566,2.768 16.809,7.196 l 5.258,-9.108 c -5.898,-5.176 -13.619,-8.32 -22.065,-8.32 -18.48,0 -33.514,15.032 -33.514,33.513 -0.002,18.481 15.03,33.513 33.511,33.513 z"
+             id="path754"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gso2h)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-text svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.19195521,0,0,0.19195521,133.51035,41.444337)"
+       id="g768">
+      <path
+         d="m -250,101.92188 c 230,-1 270,-1 500,0"
+         style="fill:none"
+         id="path762"
+         inkscape:connector-curvature="0" />
+      <text
+         x="0"
+         y="0"
+         xml:space="preserve"
+         style="font-weight:bold;font-size:100px;font-family:Montserrat;text-anchor:middle;fill:url(#linearGradientSjiu8b5gsp7y)"
+         dy="91.429688"
+         id="text764">PR    VA!</text>
+      <rect
+         x="0"
+         y="0"
+         width="0"
+         height="0"
+         id="rect766" />
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,83.154656,53.609165)"
+       id="g790">
+      <rect
+         x="0"
+         y="0"
+         width="29"
+         height="31"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect778" />
+      <svg
+         width="29.649"
+         height="31.72554"
+         viewBox="37.513 22.611293 29.649 31.725539"
+         version="1.1"
+         id="svg788">
+        <desc
+           id="desc780">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs782" />
+        <g
+           id="g786">
+          <path
+             d="m 61.081,37.216 c -1.483,-0.378 -2.426,-2.866 -1.625,-4.032 0.484,-0.734 0.609,-1.285 -0.064,-1.981 -0.632,-0.66 -1.207,-1.266 -2.188,-0.527 -0.274,0.211 -0.686,0.237 -0.921,0.313 -1.154,-0.056 -2.838,-1.187 -3.018,-2.008 -0.172,-0.812 -0.441,-1.354 -1.426,-1.352 L 51.617,27.62 c -0.973,-0.083 -1.302,0.435 -1.541,1.23 -0.23,0.804 -2.018,1.793 -3.172,1.754 -0.227,-0.095 -0.636,-0.155 -0.892,-0.388 -0.917,-0.817 -1.522,-0.259 -2.224,0.346 -0.711,0.639 -0.649,1.198 -0.226,1.969 0.551,0.965 -0.032,2.662 -1.049,3.451 1.937,3.522 3.786,7.101 5.626,10.679 0.6,0.401 1.068,0.892 1.154,1.306 0.172,0.821 0.458,1.355 1.435,1.352 l 0.214,0.009 c 0.973,0.083 1.302,-0.426 1.541,-1.23 0.23,-0.796 2.018,-1.793 3.172,-1.746 0.228,0.086 0.636,0.163 0.892,0.388 0.916,0.834 1.522,0.268 2.224,-0.346 0.711,-0.622 0.649,-1.198 0.226,-1.952 -0.703,-1.245 0.441,-3.648 1.95,-3.903 0.888,-0.135 1.111,-0.58 1.178,-1.159 l 0.037,-0.898 c -0.021,-0.597 -0.208,-1.05 -1.081,-1.266 z m -4.147,1.911 c -0.376,2.896 -2.915,5.096 -5.875,5.001 -2.983,-0.148 -5.334,-2.548 -5.471,-5.466 l 0.034,-0.821 c 0.376,-2.914 2.916,-5.105 5.901,-5.008 2.974,0.148 5.309,2.539 5.445,5.473 z"
+             id="path784"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp6j)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,67.965136,48.545992)"
+       id="g804">
+      <rect
+         x="0"
+         y="0"
+         width="58"
+         height="58"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect792" />
+      <svg
+         width="58.347492"
+         height="58.901001"
+         viewBox="-3.1606326 9.024 58.34749 58.901"
+         version="1.1"
+         id="svg802">
+        <desc
+           id="desc794">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs796" />
+        <g
+           id="g800">
+          <path
+             d="M 49.142,54.165 C 45.915,48.034 42.569,41.824 39.332,35.84 l -0.893,-1.658 c -2.099,-3.865 -2.286,-4.473 -1.903,-8.505 3.532,-1.442 4.405,-3.247 3.875,-7.455 -0.304,-2.384 -2.197,-4.14 -4.503,-4.159 -2.904,-0.02 -5.817,-0.039 -8.721,-0.039 h -2.345 c -2.913,0 -5.817,0.02 -8.721,0.039 -2.315,0.02 -4.199,1.776 -4.513,4.159 -0.52,4.218 0.353,6.013 3.875,7.455 0.392,4.032 0.196,4.64 -1.893,8.505 l -0.893,1.658 c -3.247,5.984 -6.592,12.194 -9.82,18.325 -1.236,2.354 -1.373,4.552 -0.383,6.19 0.991,1.648 3.021,2.56 5.7,2.56 4.728,0 9.437,0.01 14.156,0.01 h 7.328 c 4.709,0 9.427,-0.01 14.156,-0.01 2.678,0 4.699,-0.912 5.69,-2.56 1.001,-1.638 0.864,-3.835 -0.382,-6.19 z m -1.815,4.866 c -0.51,0.853 -1.756,1.315 -3.502,1.324 -5.945,0.01 -11.87,0.01 -17.815,0.01 -5.935,0 -11.87,0 -17.805,-0.01 -1.756,-0.01 -2.992,-0.471 -3.512,-1.324 -0.5,-0.844 -0.334,-2.148 0.471,-3.669 3.218,-6.121 6.563,-12.321 9.79,-18.315 l 0.893,-1.638 c 1.069,-1.982 2.178,-3.993 2.335,-6.278 0.108,-1.432 0.5,-4.915 -1.197,-5.435 -0.52,-0.167 -1.03,-0.334 -1.471,-0.667 -1.432,-1.04 -1.638,-2.845 -1.354,-4.483 0.118,-0.942 0.844,-1.903 1.982,-1.913 2.894,-0.029 5.798,-0.039 8.701,-0.039 h 2.345 c 2.904,0 5.798,0.01 8.701,0.039 1.138,0.01 1.854,0.971 1.982,1.913 0.284,1.638 0.069,3.443 -1.354,4.483 -0.451,0.334 -0.952,0.5 -1.471,0.667 -1.697,0.52 -1.305,4.002 -1.197,5.435 0.157,2.286 1.266,4.297 2.335,6.278 l 0.883,1.638 c 3.237,5.994 6.582,12.194 9.8,18.315 0.803,1.52 0.97,2.825 0.46,3.669 z"
+             id="path798"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp61)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,73.778436,44.607987)"
+       id="g818">
+      <rect
+         x="0"
+         y="0"
+         width="15"
+         height="15"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect806" />
+      <svg
+         width="15.248951"
+         height="15.235094"
+         viewBox="12.619338 -0.70375951 15.248951 15.235094"
+         version="1.1"
+         id="svg816">
+        <desc
+           id="desc808">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs810" />
+        <g
+           id="g814">
+          <path
+             d="M 22.846,7.265 C 22.658,8.684 21.286,9.718 19.879,9.503 18.5,9.292 17.489,7.995 17.633,6.62 17.777,5.237 19.181,4.138 20.577,4.315 22,4.496 23.035,5.841 22.846,7.265 Z"
+             id="path812"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp64)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,76.028716,45.733127)"
+       id="g832">
+      <rect
+         x="0"
+         y="0"
+         width="15"
+         height="15"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect820" />
+      <svg
+         width="15.248772"
+         height="15.235094"
+         viewBox="19.296517 2.3122405 15.248772 15.235094"
+         version="1.1"
+         id="svg830">
+        <desc
+           id="desc822">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs824" />
+        <g
+           id="g828">
+          <path
+             d="m 29.523,10.281 c -0.188,1.419 -1.56,2.453 -2.967,2.238 -1.378,-0.211 -2.389,-1.508 -2.246,-2.883 0.144,-1.383 1.548,-2.482 2.944,-2.305 1.423,0.182 2.458,1.527 2.269,2.95 z"
+             id="path826"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp67)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,78.279026,43.48282)"
+       id="g846">
+      <rect
+         x="0"
+         y="0"
+         width="15"
+         height="15"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect834" />
+      <svg
+         width="15.248772"
+         height="15.235094"
+         viewBox="24.917517 -3.9257595 15.248772 15.235094"
+         version="1.1"
+         id="svg844">
+        <desc
+           id="desc836">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs838" />
+        <g
+           id="g842">
+          <path
+             d="M 35.144,4.043 C 34.956,5.462 33.584,6.496 32.177,6.281 30.799,6.07 29.788,4.773 29.931,3.398 c 0.144,-1.383 1.548,-2.482 2.944,-2.305 1.423,0.182 2.458,1.527 2.269,2.95 z"
+             id="path840"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp6a)" />
+        </g>
+      </svg>
+    </g>
+    <g
+       class="svg-clip svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.37504687,0,0,0.37504687,70.027906,56.609566)"
+       id="g860">
+      <rect
+         x="0"
+         y="0"
+         width="47"
+         height="31"
+         class="svg-hitbox"
+         style="fill:none"
+         id="rect848" />
+      <svg
+         width="47.257999"
+         height="31.3223"
+         viewBox="2.381 30.9527 47.258 31.3223"
+         version="1.1"
+         id="svg858">
+        <desc
+           id="desc850">Created by Danilo Guerrera</desc>
+        <defs
+           id="defs852" />
+        <g
+           id="g856">
+          <path
+             d="m 33.525,37.018 c -0.108,-0.186 -6.19,2.227 -6.739,2.403 C 25.265,39.911 24.451,40 23.048,38.98 22.714,38.735 19.389,35.419 19.055,36.027 16.102,41.432 10.481,51.615 7.381,57.275 H 44.639 C 40.401,49.555 37.87,44.944 33.525,37.018 Z m 8.848,19.119 0.108,0.186 h -0.294 z"
+             id="path854"
+             inkscape:connector-curvature="0"
+             style="fill:url(#linearGradientSjiu8b5gsp6d)" />
+        </g>
+      </svg>
+    </g>
+  </g>
+</svg>

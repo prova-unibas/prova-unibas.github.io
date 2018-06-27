@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="11.519187mm"
+   height="13.993609mm"
+   viewBox="0 0 11.519187 13.993609"
+   version="1.1"
+   id="svg113"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="favicon.svg">
+  <defs
+     id="defs107">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(2.511194,0.39821695)"
+       x1="-92.515442"
+       y1="138.06416"
+       x2="90.551582"
+       y2="138.06416"
+       id="linearGradientSjiu8b5gsp7y">
+      <stop
+         offset="0%"
+         stop-color="#16d9e0"
+         id="stop219" />
+      <stop
+         offset="100%"
+         stop-color="#16d9e0"
+         id="stop221" />
+    </linearGradient>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="-467.23411"
+     inkscape:cy="-31.64715"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g768"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="2560"
+     inkscape:window-height="1298"
+     inkscape:window-x="3440"
+     inkscape:window-y="23"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata110">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-134.58367,-126.46642)">
+    <g
+       class="svg-text svg-visible"
+       style="opacity:1;text-rendering:geometricPrecision"
+       transform="matrix(0.19195521,0,0,0.19195521,139.85119,122.90962)"
+       id="g768">
+      <path
+         d="m -250,101.92188 c 230,-1 270,-1 500,0"
+         style="fill:none"
+         id="path762"
+         inkscape:connector-curvature="0" />
+      <text
+         x="0"
+         y="0"
+         xml:space="preserve"
+         style="font-weight:bold;font-size:100px;font-family:Montserrat;text-anchor:middle;fill:url(#linearGradientSjiu8b5gsp7y)"
+         dy="91.429688"
+         id="text764">P</text>
+      <rect
+         x="0"
+         y="0"
+         width="0"
+         height="0"
+         id="rect766" />
+      <flowRoot
+         xml:space="preserve"
+         id="flowRoot133"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(1.3783597,0,0,1.3783597,-728.56157,-640.30364)"><flowRegion
+           id="flowRegion135"><rect
+             id="rect137"
+             width="287.08929"
+             height="78.320778"
+             x="422.85715"
+             y="538.48462" /></flowRegion><flowPara
+           id="flowPara139"></flowPara></flowRoot>      <flowRoot
+         xml:space="preserve"
+         id="flowRoot141"
+         style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+         transform="matrix(1.3783597,0,0,1.3783597,-728.56157,-640.30364)"><flowRegion
+           id="flowRegion143"><rect
+             id="rect145"
+             width="425.71429"
+             height="322.85715"
+             x="317.14285"
+             y="356.80539" /></flowRegion><flowPara
+           id="flowPara147"></flowPara></flowRoot>    </g>
+  </g>
+</svg>
